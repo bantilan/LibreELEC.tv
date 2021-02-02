@@ -3,8 +3,8 @@
 # Copyright (C) 2017-present Team LibreELEC (https://libreelec.tv)
 
 PKG_NAME="ffmpeg"
-PKG_VERSION="4.3.5-beta"
-PKG_SHA256="90b03fc62bafefbcf3c041211ca58ed83e4ef88e759ecfaedaea067c946b891f"
+PKG_VERSION="4.3.6-beta"
+PKG_SHA256="cc5b8241e80b3ccbbc5bb34d556885d6a535204bfe0b8ffef9be12a97f755c3b"
 PKG_LICENSE="LGPLv2.1+"
 PKG_SITE="https://ffmpeg.org"
 PKG_URL="https://github.com/bantilan/FFmpeg/archive/${PKG_VERSION}.tar.gz"
