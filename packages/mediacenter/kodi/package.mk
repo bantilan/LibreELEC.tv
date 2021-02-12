@@ -3,11 +3,11 @@
 # Copyright (C) 2017-present Team LibreELEC (https://libreelec.tv)
 
 PKG_NAME="kodi"
-PKG_VERSION="19.0RC4-Matrix"
-PKG_SHA256="9b9c800c604b9b5c28f0c3fe9327fc7e1b22d5c754678940892a6f056fac3e03"
+PKG_VERSION="bb88e5e1db54844bc27befc7014c8118ae5ca275"
+PKG_SHA256="b00e0c2152f52207959fad087ed0ed5fd2ac1afda95ae56f83e406d1ec028ad9"
 PKG_LICENSE="GPL"
 PKG_SITE="http://www.kodi.tv"
-PKG_URL="https://github.com/bantilan/xbmc/archive/${PKG_VERSION}.tar.gz"
+PKG_URL="https://github.com/xbmc/xbmc/archive/${PKG_VERSION}.tar.gz"
 PKG_DEPENDS_TARGET="toolchain JsonSchemaBuilder:host TexturePacker:host Python3 zlib systemd lzo pcre swig:host libass curl fontconfig fribidi tinyxml libjpeg-turbo freetype libcdio taglib libxml2 libxslt rapidjson sqlite ffmpeg crossguid libdvdnav libhdhomerun libfmt lirc libfstrcmp flatbuffers:host flatbuffers libudfread spdlog"
 PKG_LONGDESC="A free and open source cross-platform media player."
 PKG_BUILD_FLAGS="+speed"
